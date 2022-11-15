@@ -1,9 +1,10 @@
-import { Navbar } from "./components/common/Navbar";
+import { Navbar } from "./layouts/header/Navbar";
 
 function App() {
+  
   return (
     <div className="App">
-      <Navbar username={"user 1"}></Navbar>
+      <Navbar selectedTabName="Overview"></Navbar>
       <h1>OB Choreo demo app</h1>
     </div>
   );
