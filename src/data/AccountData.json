@@ -1,0 +1,58 @@
+[
+    {
+        "account_id": "30080012343456",
+        "display_name": "Account_1",
+        "accountId": "30080012343456",
+        "accountName": "account_1",
+        "authorizationMethod": "single",
+        "nickName": "not-working",
+        "customerAccountType": "Individual",
+        "type": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "isEligible": true,
+        "isJointAccount": false,
+        "jointAccountConsentElectionStatus": false,
+        "balance": "$1234.78"
+    },
+    {
+        "account_id": "30080098763459",
+        "display_name": "Account_2",
+        "accountId": "30080098763459",
+        "accountName": "account_2",
+        "authorizationMethod": "single",
+        "nickName": "not-working",
+        "customerAccountType": "Individual",
+        "type": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "isEligible": true,
+        "isJointAccount": false,
+        "jointAccountConsentElectionStatus": false,
+        "balance": "$7158.01"
+    },
+    {
+        "account_id": "30080098971337",
+        "display_name": "Multi Auth Account",
+        "accountId": "30080098971337",
+        "accountName": "multi_auth_account",
+        "authorizationMethod": "multiple",
+        "nickName": "not-working",
+        "customerAccountType": "Individual",
+        "type": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "isEligible": true,
+        "isJointAccount": false,
+        "jointAccountConsentElectionStatus": false,
+        "balance": "$7189.37"
+    },
+    {
+        "accountId": "650-000 N1232",
+        "display_name": "Extra Account",
+        "account_id": "650-000 N1232",
+        "authorizationMethod": "multiple",
+        "accountName": "Extra Account",
+        "nickName": "not-working",
+        "customerAccountType": "Individual",
+        "type": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "isEligible": true,
+        "isJointAccount": true,
+        "jointAccountConsentElectionStatus": true,
+        "balance": "$7317.78"
+    }
+]

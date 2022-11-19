@@ -1,0 +1,122 @@
+[
+    {
+        "AccountId": "30080012343456",
+        "TransactionId": "123",
+        "TransactionReference": "Ref 1",
+        "Amount": {
+            "Amount": "10.00",
+            "Currency": "$"
+        },
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2017-04-05T10:43:07+00:00",
+        "ValueDateTime": "2017-04-05T10:45:22+00:00",
+        "TransactionInformation": "Cash from Aubrey",
+        "BankTransactionCode": {
+            "Code": "str",
+            "SubCode": "str"
+        },
+        "ProprietaryBankTransactionCode": {
+            "Code": "Transfer",
+            "Issuer": "AlphaBank"
+        },
+        "Balance": {
+            "Amount": {
+                "Amount": "230.00",
+                "Currency": "$"
+            },
+            "CreditDebitIndicator": "Credit",
+            "Type": "InterimBooked"
+        }
+    },
+    {
+        "AccountId": "30080098763459",
+        "TransactionId": "124",
+        "TransactionReference": "Ref 2",
+        "Amount": {
+            "Amount": "100.00",
+            "Currency": "$"
+        },
+        "CreditDebitIndicator": "Credit",
+        "Status": "Booked",
+        "BookingDateTime": "2017-04-05T10:43:07+00:00",
+        "ValueDateTime": "2012-07-16T10:45:22+00:00",
+        "TransactionInformation": "Cash from Aubrey",
+        "BankTransactionCode": {
+            "Code": "str",
+            "SubCode": "str"
+        },
+        "ProprietaryBankTransactionCode": {
+            "Code": "Transfer",
+            "Issuer": "AlphaBank"
+        },
+        "Balance": {
+            "Amount": {
+                "Amount": "230.00",
+                "Currency": "GBP"
+            },
+            "CreditDebitIndicator": "Credit",
+            "Type": "InterimBooked"
+        }
+    },
+    {
+        "AccountId": "30080098971337",
+        "TransactionId": "125",
+        "TransactionReference": "Ref 3",
+        "Amount": {
+            "Amount": "46.00",
+            "Currency": "$"
+        },
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2017-04-05T10:43:07+00:00",
+        "ValueDateTime": "2018-12-11T10:45:22+00:00",
+        "TransactionInformation": "Cash from Aubrey",
+        "BankTransactionCode": {
+            "Code": "str",
+            "SubCode": "str"
+        },
+        "ProprietaryBankTransactionCode": {
+            "Code": "Transfer",
+            "Issuer": "AlphaBank"
+        },
+        "Balance": {
+            "Amount": {
+                "Amount": "230.00",
+                "Currency": "GBP"
+            },
+            "CreditDebitIndicator": "Credit",
+            "Type": "InterimBooked"
+        }
+    },
+    {
+        "AccountId": "650-000 N1232",
+        "TransactionId": "126",
+        "TransactionReference": "Ref 4",
+        "Amount": {
+            "Amount": "83.00",
+            "Currency": "$"
+        },
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2017-04-05T10:43:07+00:00",
+        "ValueDateTime": "2019-02-05T10:45:22+00:00",
+        "TransactionInformation": "Cash from Aubrey",
+        "BankTransactionCode": {
+            "Code": "str",
+            "SubCode": "str"
+        },
+        "ProprietaryBankTransactionCode": {
+            "Code": "Transfer",
+            "Issuer": "AlphaBank"
+        },
+        "Balance": {
+            "Amount": {
+                "Amount": "230.00",
+                "Currency": "GBP"
+            },
+            "CreditDebitIndicator": "Credit",
+            "Type": "InterimBooked"
+        }
+    }
+]

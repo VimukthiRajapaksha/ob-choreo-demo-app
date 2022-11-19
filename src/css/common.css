@@ -1,0 +1,20 @@
+.nav-bar-custom {
+    --bs-bg-opacity: 1;
+    background-color: #465867 !important;
+}
+
+.Footer {
+    background-color: #465867;
+    color: white;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 4rem;
+    display: flex;
+    text-align: center;
+}
+
+. font-theme-light {
+    color: #d7e2de !important;
+}

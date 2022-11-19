@@ -1,0 +1,199 @@
+.home-container {
+    padding: 10px;
+    margin: 10px;
+    background-color: #d7e2de;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+}
+
+.slider-container {
+    margin: 10px;
+    height: 130px;
+    border-radius: 15px;
+    background-color: #ffffff;
+}
+
+.slider-image {
+    height: 130px;
+    border-radius: 15px;
+}
+
+.main-acc-container {
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 15px;
+    height: 130px;
+}
+
+.transaction-list-container {
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 15px;
+    height: 300px;
+}
+
+.row-padding {
+    padding: 10px;
+}
+
+.font-size-small {
+    font-size: 12px;
+}
+
+.font-size-medium {
+    font-size: 15px;
+}
+
+.font-color-orange {
+    color: #ff7300
+}
+
+.font-color-white {
+    color: #ffffff
+}
+
+.font-color-grey {
+    color: #465867
+}
+
+.font-color-dark {
+    color: #212a32
+}
+
+.transfer-button {
+    background-color: #465867;
+    border-color: #465867;
+    color: #ffffff;
+    margin: 7px;
+    width: 110px;
+    font-size: 10px;
+}
+
+.btn-grey {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #465867;
+    --bs-btn-border-color:  #465867;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg:  #465867;
+    --bs-btn-hover-border-color: #465867;
+    --bs-btn-focus-shadow-rgb: 49,132,253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg:  #465867;
+    --bs-btn-active-border-color:  #465867;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #465867;
+    --bs-btn-disabled-border-color: #465867;
+}
+
+.text-align-left {
+    float: left;
+    text-align: left;
+}
+
+.text-align-right {
+    float: right;
+    text-align: right;
+}
+
+.account-list-view {
+    margin: 5px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    height: 80px
+}
+
+.account-list-button {
+    margin: 5px;
+    background-color: #465867;
+    border-radius: 8px;
+    height: 80px
+}
+
+.account-detail-view {
+    margin: 10px;
+}
+
+.plus-icon {
+    text-align: center;
+    font-size: 20px;
+    padding: 8px 0;
+    color: #ffffff;
+}
+
+.new-bank-button {
+    color: #ffffff;
+    width: 130px;
+    font-size: 13px;
+    margin: auto;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    --bs-btn-hover-color: #ffffff;
+    --bs-btn-hover-bg:  #465867;
+    --bs-btn-active-color: #ffffff;
+    --bs-btn-active-bg: #465867;
+}
+
+.no-padding-element {
+    padding: 0 0 !important;
+}
+
+.transaction-list-card {
+    border: 2px groove rgba(170, 167, 167, 0.16);
+    border-radius: 15px;
+    margin-bottom: 0.5rem;
+    overflow: auto;
+}
+
+.pie-chart-view {
+    display: flex;
+    text-align: -webkit-center;
+}
+
+.expense-list-view {
+    border-color: transparent;
+    text-align: left !important;
+}
+
+.expense-list-icon {
+    margin-right: 2px;
+}
+
+.money-transfer-form {
+    border: 2px #212a32 solid;
+    padding: 15px;
+}
+
+.money-transfer-form-fields {
+    padding:10px
+}
+
+.submit-btn {
+    border-radius: 5px;
+    height: 35px;
+    border: transparent;
+    background-color: #465867;
+    color: #ffffff;
+    margin: 7px;
+    width: 110px;
+    font-size: 10px;
+}
+
+
+
+/*align-items:center*/
+
+
+/*#292929*/
+/*#efefef*/
+/*#ff7300*/
+/*#595B5F*/

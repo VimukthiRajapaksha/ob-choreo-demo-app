@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Food",
+        "students": 400
+    },
+    {
+        "name": "Health",
+        "students": 700
+    },
+    {
+        "name": "Clothing",
+        "students": 200
+    },
+    {
+        "name": "Bills",
+        "students": 1000
+    },
+    {
+        "name": "Other",
+        "students": 600
+    }
+]
