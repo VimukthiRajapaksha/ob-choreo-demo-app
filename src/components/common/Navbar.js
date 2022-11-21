@@ -5,8 +5,8 @@ export const Navbar = ({ selectedTabName }) => {
     <nav className="navbar navbar-expand-sm nav-bar-custom m-2">
       <div className="container-fluid">
         <a className="navbar-brand" style={{color:'#d7e2de', fontSize:'25px'}} href="/">
-        <img src="favicon.svg" alt="Logo" width="30" height="24" className="d-inline-block align-text-top"/> 
-          {" "} Accounts Central
+        <img src="logo.svg" alt="Logo" width="250" height="24" className="d-inline-block align-text-top"/> 
+          {" "}
         </a>
 
         {/* section - navbar tabs */}

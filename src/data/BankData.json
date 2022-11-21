@@ -2,45 +2,45 @@
     "addedBanks": [
         {
             "id": "1",
-            "name": "Royal Crown Trust",
-            "logo": "favicon.svg",
+            "name": "New Civil Bank",
+            "logo": "bank_logos/1.svg",
             "country": "Wales",
             "isAdded": true
         },
         {
             "id": "2",
-            "name": "Goldcorp Bank",
-            "logo": "favicon.svg",
+            "name": "Absolute Bank",
+            "logo": "bank_logos/2.svg",
             "country": "Scotland",
             "isAdded": true
         },
         {
             "id": "3",
             "name": "Free Citizen Bank",
-            "logo": "favicon.svg",
+            "logo": "bank_logos/3.svg",
             "country": "England",
             "isAdded": true
         }
     ],
     "newBanks": [
         {
-            "id": "1",
-            "name": "Absolute Bank",
-            "logo": "favicon.svg",
+            "id": "10",
+            "name": "Goldcorp Bank",
+            "logo": "bank_logos/10.svg",
             "country": "England",
             "isAdded": false
         },
         {
             "id": "11",
             "name": "Citizens First Bank",
-            "logo": "favicon.svg",
+            "logo": "bank_logos/11.svg",
             "country": "Scotland",
             "isAdded": false
         },
         {
             "id": "12",
-            "name": "New Civil Bank",
-            "logo": "favicon.svg",
+            "name": "Royal Crown Trust",
+            "logo": "bank_logos/12.svg",
             "country": "Wales",
             "isAdded": false
         }
